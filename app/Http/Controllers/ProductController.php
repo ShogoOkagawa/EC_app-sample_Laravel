@@ -22,7 +22,7 @@ class ProductController extends Controller
 
     }
 
-    public function favorite(Product $product)
+    public function favorite( Product $product)
    {
         $user = Auth::user();
 
