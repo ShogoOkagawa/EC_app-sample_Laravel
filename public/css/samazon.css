@@ -194,3 +194,9 @@ label {
   cursor: pointer;
   cursor: hand;
 }
+
+/* user/mypage/favorite */
+.samazon-favorite-add-cart {
+  border-radius: 2px;
+  background-color: #0fbe9f;
+}
